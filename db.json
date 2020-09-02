@@ -1,0 +1,23 @@
+{
+	"constituents": [{
+		"id": 1,
+		"firstname": "Fetch Failed",
+		"organisation": "Using data.js",
+		"address1": "45 Hoveton Close",
+		"contact": "1",
+		"category": "2",
+		"tags": [{
+				"name": "Brexit",
+				"value": 0
+			},
+			{
+				"name": "Pro",
+				"value": 1
+			}
+		],
+		"member": true
+	}],
+	"profile": {
+		"name": "typicode"
+	}
+}
