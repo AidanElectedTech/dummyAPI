@@ -7,12 +7,12 @@
 		"contact": "1",
 		"category": "2",
 		"tags": [{
-				"name": "Brexit",
-				"value": 0
+				"label": "Brexit",
+				"id": 0
 			},
 			{
-				"name": "Pro",
-				"value": 1
+				"label": "Pro",
+				"id": 1
 			}
 		],
 		"member": true
