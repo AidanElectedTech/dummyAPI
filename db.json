@@ -6,6 +6,7 @@
 		"address1": "45 New Wood Close",
 		"contact": "1",
 		"category": "2",
+		"long": "",
 		"tags": [{
 				"label": "Brexit",
 				"id": 564
